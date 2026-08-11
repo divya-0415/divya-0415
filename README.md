@@ -1,23 +1,55 @@
-# 👋 Hey, I'm a Computer Science Engineer in the Making!
+# 👋 Hey there, I'm Divya!
 
-🎓 **3rd Year B.Tech CSE Student** at **Sri Venkateswara University College of Engineering**
+### 💻 B.Tech CSE Student | 🚀 Developer | 🧠 Tech Explorer | 🤝 Team Player
 
-💻 **Builder | Learner | Tech Explorer | Team Player**
+🎓 **3rd Year B.Tech Computer Science & Engineering**  
+🏫 **Sri Venkateswara University College of Engineering**
 
-I’m a passionate **Computer Science student** who loves turning ideas into real-world projects 🚀. I enjoy exploring **new technologies, experimenting with different tech stacks, and learning by building**.
+---
 
-🔭 **Currently:** Building projects, exploring new technologies, and expanding my development skills.
+## 🚀 About Me
 
-🧠 **What drives me:**
+I'm a passionate **Computer Science student** who loves turning ideas into
+real-world projects and bringing them to life through code.
 
-> *Learn → Build → Experiment → Fail → Improve → Repeat* 🔄
+💡 I enjoy **building projects**, experimenting with **new technologies**,
+and exploring different **tech stacks** to continuously expand my knowledge.
 
-🛠️ I believe the best way to learn technology is to **get hands-on with it**. Whether it's trying out a new framework, building a project from scratch, or experimenting with unfamiliar tools, I'm always looking for opportunities to grow and gain practical experience.
+🧪 My learning philosophy is simple:
 
-🤝 Beyond coding, I have a strong interest in **team management and collaboration**. I enjoy working with people, coordinating tasks, sharing ideas, and helping teams move toward a common goal.
+> **Learn → Build → Experiment → Break → Fix → Improve → Repeat 🔄**
 
-🌱 **My goal:** Keep learning, keep building, and create solutions that make a meaningful impact.
+🤝 I also enjoy working in teams, coordinating tasks, sharing ideas,
+and helping teams work together toward a common goal.
 
-⚡ **Fun fact:** I don't just learn technologies — **I experiment with them!**
+---
 
-📌 **Always curious. Always building. Always learning.** 🚀
+## 🛠️ What I'm Interested In
+
+💻 Software Development  
+🚀 Project Building  
+🧠 Problem Solving  
+🔬 Exploring New Technologies  
+🤝 Team Collaboration & Management  
+📚 Continuous Learning  
+
+---
+
+## 🌱 Currently
+
+🔭 Building projects and gaining hands-on experience  
+🧪 Experimenting with different technologies and frameworks  
+📚 Expanding my development skills  
+🚀 Working toward becoming a better software engineer  
+
+---
+
+## ⚡ My Mindset
+
+```text
+Curiosity    →  Explore 🔍
+Learning     →  Understand 🧠
+Experiment   →  Discover 🧪
+Building     →  Create 🛠️
+Failure      →  Learn 📈
+Consistency  →  Grow 🚀
